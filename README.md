@@ -124,7 +124,7 @@ ls -la
 #### Windows (PowerShell):
 ```powershell
 # Navigate to project directory
-cd "F:\openSource\WebsiteAsApp"
+cd "WebsiteAsApp"
 
 # Clean previous builds
 .\gradlew.bat clean
