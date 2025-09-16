@@ -106,7 +106,7 @@ echo $ANDROID_HOME
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/Sumit931kr/WebsiteAsApp.git
 cd WebsiteAsApp
 
 # Make gradlew executable (Linux/macOS)
